@@ -2,7 +2,7 @@
 
 **LATEST COMPATIBLE VERSION:** [node v0.11.10](https://github.com/joyent/node/blob/v0.11.10-release/lib/assert.js)
 
-assert.js is a port of the Node.js standard assertion library for the browser.
+assert.js is a port of the Node.js standard assertion library for the browser and phantomjs.
 The original code and tests are from Node.js, and have been modified to be browser compatible.
 
 For example, you can use it with [Mocha](http://visionmedia.github.com/mocha/) to perform tests
